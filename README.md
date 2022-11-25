@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Áthila Coelho
-
+### Hi there 👋 I'm Áthila Coelho<br>
+<b>I'm ignorant at most of the things in this life. Always learning.</b>
+<br>
 
 - 🔭 I’m currently working as IT Analyst
 - 🌱 I’m currently learning .Net Development and all related things
